@@ -1,4 +1,4 @@
-                                           # Voice-Assistant-Using-Python
+# Voice-Assistant-AYAKA-Using-Python
 
 In this project, I have used certain python libraries to create my personal voice 
 assisant named 'AYAKA'. Ayaka can inform about its origin, reason to build. Moreover
@@ -30,7 +30,7 @@ An in-built mic, also known as an integrated microphone, is a microphone that is
 a device such as a laptop, smartphone, or tablet. In-built microphones are used for recording 
 sound or capturing voice input without the need for an external microphone.
 
-![image](https://user-images.githubusercontent.com/108731838/235353248-a75c7a69-aadf-4a52-9c0a-997f7705cd26.png)
+![image](https://user-images.githubusercontent.com/108731838/235356470-c8dddc9a-1204-4c09-8833-ed6eec8ef080.png)
 
 (C) ISE to run the Program
 
@@ -50,7 +50,7 @@ cloud storage, and other internet-based applications.
 ![image](https://user-images.githubusercontent.com/108731838/235353336-fe2a1559-9d8b-4f6d-9913-7a0eff3cd389.png)
 
 
-                                                **DEPENDENCIES INSTALLED**
+                                            **DEPENDENCIES INSTALLED**
                                                 
 * To Install Pip
 
@@ -104,9 +104,8 @@ cloud storage, and other internet-based applications.
       pip install --upgrade os_sys          // OPERATING SYSTEM
       
       
-                                                  **THE PROGRAM IS AS FOLLOWS**
-                                                  
-                                                  
+The Explanation of the program is as follows:
+                                                                     
 ![1](https://user-images.githubusercontent.com/108731838/235354974-d18daea2-a489-4ce1-b514-6eca0359f701.png)
 
 At the beginning, we imported all the necessary python libraries used in this project. The dependencies can be 
@@ -128,7 +127,7 @@ in the main function as follows.
 
 
 
-                                                        **THE FINAL PROJECT**
+                                               **THE FINAL PROJECT**
                                                         
 
 https://user-images.githubusercontent.com/108731838/235355130-6cfed636-eeb0-40e2-a34c-75a93e546d49.mp4
