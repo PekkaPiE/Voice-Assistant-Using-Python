@@ -1,4 +1,4 @@
-# Voice-Assistant-Using-Python
+                                           # Voice-Assistant-Using-Python
 
 In this project, I have used certain python libraries to create my personal voice 
 assisant named 'AYAKA'. Ayaka can inform about its origin, reason to build. Moreover
@@ -13,7 +13,7 @@ In this article, we will discuss how to create a voice assistant using Python.
 
 
 
-                               **COMPONENTS USED IN THIS PROJECT**
+                                         **COMPONENTS USED IN THIS PROJECT**
                                
 (A) Laptop
 
