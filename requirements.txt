@@ -1,0 +1,6 @@
+Components required:
+
+1. Laptop
+2. In-built or external mic 
+3. ISE to run the Code ex: vscode, pycharm...
+4. Active Internet connection
