@@ -11,7 +11,7 @@ that can be used to create voice assistants.
 
 In this article, we will discuss how to create a voice assistant using Python.
 
-![image](https://user-images.githubusercontent.com/108731838/235356788-52fcd5e7-8e88-4a9f-bdef-8ae6e6e6e189.png)
+![voice_assistant_Ayaka_Python py - Visual Studio Code 30-04-2023 19_22_01](https://user-images.githubusercontent.com/108731838/235356828-f2b7ad5f-3906-4cec-8c02-bdf3fc57babf.png)
 
 
 
